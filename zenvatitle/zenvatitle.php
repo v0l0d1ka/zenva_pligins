@@ -2,7 +2,7 @@
 /*
 Plugin Name: Zenva Happy Titles
 Plugin URI: http://www.zenva.com
-Description: Learn how to use simple filters. Find the complete list of filters here: http://codex.wordpress.org/Plugin_API/Filter_Reference/
+Description:  use simple filters. Find the complete list of filters here: http://codex.wordpress.org/Plugin_API/Filter_Reference/
 Version: 1.0
 Author: Zenva
 Author URI: http://www.zenva.com
