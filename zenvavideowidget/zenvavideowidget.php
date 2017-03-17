@@ -2,7 +2,7 @@
 /*
 Plugin Name: Zenva Video Widget
 Plugin URI: http://www.zenva.com
-Description: Learn how to create simple widgets and post metadata.
+Description:  create simple widgets and post metadata.
 Version: 1.0
 Author: Zenva
 Author URI: http://www.zenva.com
