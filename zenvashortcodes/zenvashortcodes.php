@@ -2,7 +2,7 @@
 /*
 Plugin Name: Zenva Shortcodes and remote data
 Plugin URI: http://www.zenva.com
-Description: Learn how to create shortcodes and to retrieve data from the web. Shortcodes in Wordpress: http://wp.smashingmagazine.com/2012/05/01/wordpress-shortcodes-complete-guide/ , default shortcodes you can use: http://en.support.wordpress.com/shortcodes/
+Description:  Create shortcodes and to retrieve data from the web. Shortcodes in Wordpress: http://wp.smashingmagazine.com/2012/05/01/wordpress-shortcodes-complete-guide/ , default shortcodes you can use: http://en.support.wordpress.com/shortcodes/
 Version: 1.0
 Author: Zenva
 Author URI: http://www.zenva.com
